@@ -1,8 +1,7 @@
-***Introductory CS Theory Visualizer Toolkit***
+***Introductory CS Theory Explainer Toolkit***
 
 This is a repository for visualizations of introductory CS theory course concepts. It is meant to be used by both instructors and students to support their goals.
-For students, this repository will generate visuals of common conversions and concepts within the course.
-For instructors, this repository will allow you to automatically generate step-by-step solutions with explanations for common conversions.  
+The primary use-case is for instructors to automatically generate step-by-step solutions with explanations.  
 
 **Todos**
 
